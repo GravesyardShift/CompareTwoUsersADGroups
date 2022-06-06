@@ -1,4 +1,5 @@
 # CompareTwoUsersADGroups
+- Very simple PowerShell script that compares and returns the groups two users have in common and differences
 
 ## Instructions
 - Open with PowerShell
@@ -12,4 +13,4 @@
 ## Finding the user id's for your organization
 - Open Active Directory
 - In "Find Users, Contacts, and Groups" box, search the name of the person who's user id you want to find.
-- 
+- In the "Account" tab, under the "User Logon Name", will be their user id.
