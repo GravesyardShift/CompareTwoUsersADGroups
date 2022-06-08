@@ -12,5 +12,8 @@
 
 ## Finding the user id's for your organization
 - Open Active Directory
-- In "Find Users, Contacts, and Groups" box, search the name of the person who's user id you want to find.
-- In the "Account" tab, under the "User Logon Name", will be their user id.
+- Right click on company organization
+- Click on "Find..."
+- In the "Find Users, Contacts, and Groups" box, search the name of the person who's user id you want to find.
+- Double-click on the user
+- In the "Account" tab, under the "User Logon Name (pre-Windows 2000)", in the right box, will be their user id.
